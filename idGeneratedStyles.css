@@ -1,0 +1,47 @@
+@font-face {
+	font-family: "Oki";
+	src: url(personne3.ttf);
+}
+
+
+
+
+
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Bloc-de-texte-standard {
+	border-style:solid;
+}
+p.Paragraphe-standard {
+	color:#000000;
+	font-family:"Oki";
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.CharOverride-1 {
+	font-family:"Oki", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-weight:normal;
+}
